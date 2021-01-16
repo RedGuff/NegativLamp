@@ -1,0 +1,2 @@
+# NegativLamp
+PovRay, for quora.
